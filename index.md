@@ -1,37 +1,352 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/johnntbaer/openbullet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ND03 Configs</title>
+    <link rel="stylesheet" type="text/css" href="/nd033.github.io/style.css">
+    <meta charset="utf-8">
+    <meta name="description" content="List of all my free & paid configs with download links!"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="configs, openbullet, blackbullet, openbullet config">
+    <meta name="author" content="ND03">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script src="https://shoppy.gg/api/embed.js"></script> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160199855-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  gtag('config', 'UA-160199855-1');
+</script>
+    
+</head>
+<body>
+<h1 class="free">Free Configs</h1>
 
-### Markdown
+<div class="line"></div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div class="configs">
+    <div class="configdesc">
+        <img src="https://i.imgur.com/aFTkbZZ.png" alt="Funimation Config">
+        <p>Proxies: Yes, US only</p>
+        <p>Capture: if Premium</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/994144-ob-anom-funimation-captures-premium/" target="_blank">Download</a>
+    </div>
 
-```markdown
-Syntax highlighted code block
+    <div class="configdesc">
+        <img src="https://i.imgur.com/bervyPd.png" alt="Grammarly Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: if Premium</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1013144-ob-anom-grammarly-config-captures-sub-type-free-goes-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/ehxCQ6l.jpg" alt="NordVPN Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Expiry Date</p>
+        <p>Free to free, expired to expired</p>
+        <p>CPM: 2K w/ Free Proxies</p>
+        <p>Mail/User: Mail & User</p>
+        <a href="https://www.nulled.to/topic/1006059-ob-anom-nordvpn-config-captures-expiration-date-expired-accs-go-to-expired-free-to-free-3k-cpm-w-decent-proxies/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/1ALJ0K2.jpg" alt="Disney+ Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Sub Type & Renew Date</p>
+        <p>Free to free, expired to expired</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/987121-ob-anom-disney-captures-sub-type-renew-date/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/v3ZlBNc.jpg" alt="ChaturBate Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: if Premium</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: User</p>
+        <div class="lin2"></div>
+        <a href="https://www.nulled.to/topic/987148-ob-anom-chaturbate-captures-membership-tokens/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/lAcOQ3V.jpg" alt="X-VPN Config">
+        <p>Proxies: No</p>
+        <p>Capture: if Premium</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: 30K</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1006029-ob-anom-x-vpn-proxyless-30k-cpm-success-premium-freefree/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/sNXRLzI.jpg" alt="Insomnia Cookies Config">
+        <p>Proxies: Yes, US only</p>
+        <p>Capture: Points & Rewards</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/982053-ob-anom-insomnia-cookies-config-captures-rewards-and-points/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/YH9nxW6.jpg" alt="VyprVPN Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: if Premium</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Good w/ Free Proxies</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1024333-ob-anom-vyprvpn-config-good-cpm-free-accounts-to-free-premium-to-hits/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/XnWV7la.jpg" alt="Buffalo Wild Wings Config">
+        <p>Proxies: No</p>
+        <p>Capture: Points</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: 18K</p>
+        <p>Mail/User: Mail</p>
+        <div class="lin2"></div>
+        <a href="https://www.nulled.to/topic/999322-ob-anom-buffalo-wild-wings-config-18k-cpm-proxyless-doesnt-ban-captures-points/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/eseO5TG.jpg" alt="Minecraft Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: None</p>
+        <p>Doesn't check if free</p>
+        <p>CPM: Good w/ Free Proxies</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1007387-ob-anom-minecraft-config-captcha-bypass-2k-cpm-w-free-no-capture/" target="_blank">Download</a>
+    </div>
+        <div class="configdesc">
+        <img src="https://i.imgur.com/Y4G7eLj.png" alt="Skinhub Config">
+        <p>Proxies: No</p>
+        <p>Capture: Balance & Inventory</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: 16K</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1009982-ob-anom-skinhub-proxyless-16k-cpm-captures-skin-inventory-balance-deposits-withdraws/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/9Wtkg1O.jpg" alt="Hulu Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Sub Type</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Good w/ Free Proxies</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1017231-ob-anom-hulu-config-captures-sub-type-free-goes-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/s1DlIw5.jpg" alt="Wendy's Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Balance</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/997608-ob-anom-wendys-config-captures-balance/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/fQipLVR.jpg" alt="Crunchyroll Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Sub Type</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail & User</p>
+        <a href="https://www.nulled.to/topic/1023666-ob-anom-crunchyroll-config-captures-sub-type-expiry-date-decent-cpm-free-accounts-go-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/c2Y2gvX.png" alt="Tibia Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: All 3x Coins + Levels</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Email</p>
+        <a href="https://www.nulled.to/topic/1001505-ob-anom-tibia-config-captures-coins-loyalty-points-tournament-points-levels-premium/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/C9MJTEk.png" alt="Surfshark VPN Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Expiry Date</p>
+        <p>Free to free, expired to expired</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Email</p>
+        <a href="https://www.nulled.to/topic/1044564-ob-anom-surfshark-vpn-config-captures-expiry-date-free-accs-to-free-expired-to-expired/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/RDftJ78g.jpg" alt="WWE Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Subscription Type</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Email</p>
+        <a href="https://www.nulled.to/topic/1009430-ob-anom-wwe-config-captures-subscription-free-goes-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/xI9suEH.png" alt="Trust.Zone VPN Config">
+        <p>Proxies: No</p>
+        <p>Capture: Data Limit</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: 30K</p>
+        <p>Mail/User: Email</p>
+        <div class="lin2"></div>
+        <a href="https://www.nulled.to/topic/1021992-ob-anom-trustzone-vpn-30k-cpm-proxyless-captures-data-limit-free-accs-go-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/RoHexrp.png" alt="TunnelBear VPN Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Sub Type & Expiry Date</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Email</p>
+        <a href="https://www.nulled.to/topic/991192-ob-anom-tunnelbear-captures-sub-type-renew-date/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/ArhnBTz.jpg" alt="Viaplay.se Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Sub Type & Expiry Date</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Email</p>
+        <div class="lin2"></div>
+        <a href="https://www.nulled.to/topic/1009438-ob-anom-viaplayse-config-1k-cpm-w-free-captures-sub-type-free-goes-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/onk9ziW.png" alt="UPlay Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Platform & Games</p>
+        <p>Free to free, 2FA to 2Factor</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Email</p>
+        <a href="https://www.nulled.to/topic/1048711-ob-anom-uplay-config-captures-platform-games-free-accs-to-free-2fa-to-2factor-decent-cpm/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/s6dcHX5.png" alt="Reddit Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Post & Comment Karma</p>
+        <p>0 karma goes to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: User</p>
+        <a href="https://www.nulled.to/topic/1051480-ob-anom-reddit-config-captures-post-karma-comment-karma-0-karma-goes-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/4bp96CF.jpg" alt="Jersey Mike's Config">
+        <p>Proxies: Yes, US only</p>
+        <p>Capture: Points</p>
+        <p>0 Points goes to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail</p>
+        <div class="lin2"></div>
+        <a href="https://www.nulled.to/topic/1059705-ob-anom-jersey-mikes-captures-points-free-goes-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/ymYY00D.png" alt="Goose VPN Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Sub type & expiry date</p>
+        <p>Free to free, expired to expired</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1019176-ob-anom-goose-vpn-config-captures-sub-type-expiration-date-expired-to-expired-free-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/DpcgrjA.jpg" alt="HBO NOW Config">
+        <p>Proxies: Yes, US only</p>
+        <p>Capture: Expiry Date</p>
+        <p>Free to free, expired to expired</p>
+        <p>CPM: 1-2K</p>
+        <p>Mail/User: Email</p>
+        <a href="https://www.nulled.to/topic/1063901-ob-anom-hbo-now-captures-expiryrenew-date-free-goes-to-free-expired-to-expired/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/tHB0Y5j.png" alt="Luminati Proxies Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Sub Package</p>
+        <p>Free goes to free</p>
+        <p>CPM: 200-1000</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1062412-ob-anom-luminati-proxies-captures-package-free-goes-to-free-free-proxies/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/Qv2igjD.png" alt="Skillshare Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Plan, Interval & if Teacher</p>
+        <p>Free goes to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1069074-ob-anom-skillshare-config-captures-plan-payment-interval-if-top-teacher-free-goes-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/qEaXCov.png" alt="Fubo.tv Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Plan, Expiry & Addons</p>
+        <p>Free goes to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Mail</p>
+        <a href="https://www.nulled.to/topic/1070410-ob-anom-fubotv-config-captures-plan-expiry-date-addons-good-cpm/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/qhS3b1i.jpg" alt="ProGuides Config">
+        <p>Proxies: No</p>
+        <p>Capture: if Coach & Points</p>
+        <p>0 points goes to free</p>
+        <p>CPM: 21K</p>
+        <p>Mail/User: Mail & User</p>
+        <a href="https://www.nulled.to/topic/1067751-ob-anom-proguides-21k-cpm-proxyless-captures-if-coach-points-coach-earnings-free-goes-to-free/" target="_blank">Download</a>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/X8ilE8v.jpg" alt="Duolingo Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: if Plus & Crowns Gems XP</p>
+        <p>Free goes to free</p>
+        <p>CPM: Usually High</p>
+        <p>Mail/User: User</p>
+        <a href="https://www.nulled.to/topic/1070619-ob-anom-duolingo-config-captures-if-plus-crowns-lingots-xp-free-goes-to-free/" target="_blank">Download</a>
+    </div>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnntbaer/openbullet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <h1 class="paid">Paid Configs</h1>
+    <div class="redline"></div>
+    <div class="paidconfigs">
+        <div class="paidconfigs">
+        <div class="configdesc">
+            <img src="https://i.imgur.com/V8aGsj3.jpg" alt="AMC Config">
+            <p>Proxies: Yes, US Rotating only</p>
+            <p>Capture: Points Rewards & Coupons</p>
+            <p>Free accounts go to free</p>
+            <p>CPM: 600-6K</p>
+            <p>Mail/User: Mail</p>
+            <div class="lin2"></div>
+            <button data-shoppy-product="nfVQT1T" class="apaid">Buy [$30]</button> 
+            </div>
+    </div>
+        </div>
+        <div class="configdesc">
+        <img src="https://i.imgur.com/R08XNNd.jpg" alt="Valorant Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Region & Mail Status</p>
+        <p>Acc w/o goes to free</p>
+        <p>CPM: 400-5000</p>
+        <p>Mail/User: User</p>
+        <button data-shoppy-product="hc7f3Ww" class="apaid">Buy [$10]</button>
+    </div>
+    <div class="configdesc">
+        <img src="https://i.imgur.com/E5Bs2qY.jpg" alt="Firehouse Subs Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Points</p>
+        <p>Free accounts go to free</p>
+        <p>CPM: Depends</p>
+        <p>Mail/User: Email</p>
+        <button data-shoppy-product="xax0uxE" class="apaid">Buy [$15]</button>
+    </div>
+     <div class="configdesc">
+        <img src="https://i.imgur.com/4g4dPwZ.png" alt="Guess.com Config">
+        <p>Proxies: Yes</p>
+        <p>Capture: Sub Package</p>
+        <p>Free goes to free</p>
+        <p>CPM: 1000-3000</p>
+        <p>Mail/User: Mail</p>
+        <button data-shoppy-product="nfVQT1T" class="apaid">Buy [$20]</button>
+    
+</div>
+</body>
+</html>
